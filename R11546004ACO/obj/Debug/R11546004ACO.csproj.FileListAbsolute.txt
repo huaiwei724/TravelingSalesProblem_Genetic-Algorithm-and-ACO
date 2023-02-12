@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\bin\Debug\R11546004ACO.exe.config
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\bin\Debug\R11546004ACO.exe
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\bin\Debug\R11546004ACO.pdb
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\bin\Debug\TSPBenchmark.dll
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\bin\Debug\TSPBenchmark.xml
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\obj\Debug\R11546004ACO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\obj\Debug\R11546004ACO.Form_Main.resources
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\obj\Debug\R11546004ACO.Properties.Resources.resources
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\obj\Debug\R11546004ACO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\obj\Debug\R11546004ACO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\obj\Debug\R11546004ACO.csproj.CopyComplete
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\obj\Debug\R11546004ACO.exe
+C:\Users\User\Desktop\碩一\柔性計算\HW09\R11546004王懷葳ACO_Solution\R11546004ACO\obj\Debug\R11546004ACO.pdb

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GALibrary.GeneticGASolver&lt;T&gt;">
+    <Position X="2" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>aBAAeAAQAgAAFWCQAAgoIAYEEIQKMgCQCoAGAAgAADA=</HashCode>
+      <FileName>GeneticGASolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GALibrary.BinaryGA">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BinaryGA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GALibrary.PermutationGA">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PermutationGA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GALibrary.ContinuousGA">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContinuousGA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GALibrary.IntegerGA">
+    <Position X="5.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAUAEgAAAAAAAAAACIIAAAIAAAAAAAAA=</HashCode>
+      <FileName>IntegerGA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="GALibrary.OptimizationType">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GALibrary.SelectionMode" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABCAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GALibrary.MutationMode" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="GALibrary.ObjectiveFunction&lt;T&gt;">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObjectiveFunction.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
